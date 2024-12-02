@@ -10,4 +10,4 @@ TGS2024にて展示したゲームです。
 # 注意
 Fontsファイルが欠損しています。
 
-Assets内にMPLUS1p-Black.ttfをインポートの上、MPLUS1p-Black SDF.assetを作成してください
+Assets内にMPLUS1p-Black.ttfをインポートの上、MPLUS1p-Black SDF.assetを作成してください。
